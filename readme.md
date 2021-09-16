@@ -32,4 +32,9 @@ the app have simple web API that return data in JSON format
 5. users_api
 6. fraudsters_api
 
-!note API will convert the time values to String  
+!note API will convert the time values to String 
+
+
+# final result
+
+![screenshot](https://github.com/MahmoudHegazi/ETL_Flask_APP/blob/main/flaskr/static/excel/screen1.JPG?raw=true)
