@@ -1,0 +1,12 @@
+Flask
+sqlalchemy
+Flask-SQLAlchemy
+os
+json
+datetime
+python-csv
+pandas
+numpy
+psycopg2
+uuid
+re
